@@ -4,6 +4,8 @@
  */
 package ej2;
 
+import Clases.*;
+
 /**
  *
  * @author Dell
@@ -14,7 +16,8 @@ public class Ej2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic 
+        Biblioteca biblioteca=new Biblioteca(); 
     }
     
 }
