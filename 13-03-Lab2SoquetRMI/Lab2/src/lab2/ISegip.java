@@ -11,9 +11,7 @@ import java.rmi.RemoteException;
  *
  * @author Dell
  */
-public interface IUniversidad extends Remote{
+public interface ISegip extends Remote{
+    public boolean Verificar(String ci,String nombres,String apellidos) throws RemoteException;
+ }
     
-    public  Diploma EmitirDiploma(String ci,String nombres,String primerApellido,String segundoapellido,String fecha_nacimiento,Carrera carrera) throws RemoteException;
-    
-    
-}
