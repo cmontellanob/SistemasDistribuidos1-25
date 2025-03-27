@@ -14,11 +14,14 @@ import java.util.Scanner;
 public class SimpleChat extends ReceiverAdapter {
     JChannel channel; // Canal para el grupo de comunicación
     private String user_name; // atributo para el usuario
+    final List<String> state=new LinkedList<>();
+    
 
     public SimpleChat(String user_name) {
         this.user_name = user_name;
     }
-    final List<String> state=new LinkedList<>();
+    
+    
 
     public void viewAccepted(View new_view) {
         System.out.println("Vista del grupo actualizada: " + new_view);
