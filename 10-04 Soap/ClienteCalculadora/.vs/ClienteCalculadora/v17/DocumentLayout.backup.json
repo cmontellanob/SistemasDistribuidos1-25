@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\10-04 Soap\\ClienteCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE69F7B4-19A0-4CDB-9A86-3A3F0E1877D3}|ClienteCalculadora\\ClienteCalculadora.csproj|d:\\usfx\\1-2025\\sistemasdistribuidos1-25\\10-04 soap\\clientecalculadora\\clientecalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE69F7B4-19A0-4CDB-9A86-3A3F0E1877D3}|ClienteCalculadora\\ClienteCalculadora.csproj|solutionrelative:clientecalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE69F7B4-19A0-4CDB-9A86-3A3F0E1877D3}|ClienteCalculadora\\ClienteCalculadora.csproj|d:\\usfx\\1-2025\\sistemasdistribuidos1-25\\10-04 soap\\clientecalculadora\\clientecalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE69F7B4-19A0-4CDB-9A86-3A3F0E1877D3}|ClienteCalculadora\\ClienteCalculadora.csproj|solutionrelative:clientecalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\10-04 Soap\\ClienteCalculadora\\ClienteCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteCalculadora\\Form1.cs",
+              "ToolTip": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\10-04 Soap\\ClienteCalculadora\\ClienteCalculadora\\Form1.cs",
+              "RelativeToolTip": "ClienteCalculadora\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:12:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\10-04 Soap\\ClienteCalculadora\\ClienteCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteCalculadora\\Form1.cs",
+              "ToolTip": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\10-04 Soap\\ClienteCalculadora\\ClienteCalculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteCalculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:41:33.898Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|d:\\usfx\\1-2025\\sistemasdistribuidos1-25\\14-04 soap cliente\\clienteimpuestos\\clienteimpuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|solutionrelative:clienteimpuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|d:\\usfx\\1-2025\\sistemasdistribuidos1-25\\14-04 soap cliente\\clienteimpuestos\\clienteimpuestos\\soapsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|solutionrelative:clienteimpuestos\\soapsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|d:\\usfx\\1-2025\\sistemasdistribuidos1-25\\14-04 soap cliente\\clienteimpuestos\\clienteimpuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|solutionrelative:clienteimpuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|d:\\usfx\\1-2025\\sistemasdistribuidos1-25\\14-04 soap cliente\\clienteimpuestos\\clienteimpuestos\\clienteimpuestos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FFB591C-0DEF-40AC-B3D9-EBE9BE4CA6E8}|ClienteImpuestos\\ClienteImpuestos.csproj|solutionrelative:clienteimpuestos\\clienteimpuestos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoapSolicitud.cs",
+              "DocumentMoniker": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\SoapSolicitud.cs",
+              "RelativeDocumentMoniker": "ClienteImpuestos\\SoapSolicitud.cs",
+              "ToolTip": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\SoapSolicitud.cs",
+              "RelativeToolTip": "ClienteImpuestos\\SoapSolicitud.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:51:30.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteImpuestos\\Form1.cs",
+              "ToolTip": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\Form1.cs",
+              "RelativeToolTip": "ClienteImpuestos\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:16:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteImpuestos\\Form1.cs",
+              "ToolTip": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteImpuestos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:14:47.801Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteImpuestos",
+              "DocumentMoniker": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\ClienteImpuestos.csproj",
+              "RelativeDocumentMoniker": "ClienteImpuestos\\ClienteImpuestos.csproj",
+              "ToolTip": "D:\\usfx\\1-2025\\SistemasDistribuidos1-25\\14-04 Soap Cliente\\ClienteImpuestos\\ClienteImpuestos\\ClienteImpuestos.csproj",
+              "RelativeToolTip": "ClienteImpuestos\\ClienteImpuestos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T19:17:16.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
